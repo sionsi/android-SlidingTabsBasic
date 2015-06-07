@@ -142,6 +142,7 @@ public class SlidingTabsBasicFragment extends Fragment {
 
             Log.i(LOG_TAG, "instantiateItem() [position: " + position + "]");
             Log.i(LOG_TAG,"add one string");
+            Log.i(LOG_TAG,"add one string 2");
 
             // Return the View
             return view;
